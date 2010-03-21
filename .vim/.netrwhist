@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/theath/code/kalivo/config/initializers'
+let g:netrw_dirhist_2='/Users/theath/code/activesupport-2.2.2/lib/active_support/core_ext/string'
+let g:netrw_dirhist_3='/Users/theath/code/kalivo/lib/widgets'
+let g:netrw_dirhist_4='/Users/theath/code/pocketchore/.git'
+let g:netrw_dirhist_5='/Users/theath/code/kalivo/test/integration'
+let g:netrw_dirhist_6='/Users/theath/code/activerecord-2.1.0/lib/active_record'
+let g:netrw_dirhist_7='/Users/theath/code/rumble/vendor/plugins/open_id_authentication/lib/open_id_authentication'
