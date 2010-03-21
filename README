@@ -1,0 +1,5 @@
+1) Cut a hole in the box
+2) Copy .vimrc to ~
+3) Copy (recursive) .vim to ~
+4) sudo gem install gems/fuzzy_file_finder-1.0.0.gem
+5) Vim in style.
