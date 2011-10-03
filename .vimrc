@@ -45,7 +45,6 @@ filetype plugin on
 
 map  :FuzzyFinderTextMate<CR>
 
-set background=dark
 
 hi clear
 
@@ -53,10 +52,19 @@ if exists("syntax_on")
   syntax reset
 endif
 
-"colorscheme underwater
-colorscheme ir_black
+colorscheme tylight
+"colorscheme liquidcarbon
+" colorscheme mustang
+
+set background=dark
 
 let g:rsenseHome = "/Users/theath/opt/rsense-0.2"
 "this didn't work. at all.
 "let g:rsenseUseOmniFunc = 1
 
+set expandtab
+
+map <F2> :NERDTreeToggle<CR>
+map <F3> :Extradite<CR>
+
+set guifont=Monaco:h12
